@@ -1,5 +1,4 @@
-// Package identity is the identity's behavior on connect: how a request
-// that names a principal is refused when it cannot.
+//revive:disable:package-comments
 package identity
 
 import (
