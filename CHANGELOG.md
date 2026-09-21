@@ -2,6 +2,12 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## 0.1.1 - 2026-09-21
+#### Bug Fixes
+- CD - (45b9027) - Nathan Blair
+
+- - -
+
 ## 0.1.0 - 2026-09-21
 #### Features
 - add invalid principal error - (961ea32) - Nathan Blair
